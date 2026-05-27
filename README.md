@@ -8,6 +8,22 @@ Não precisa programar. Não precisa API key. Funciona no plano Claude Pro/Max.
 
 ---
 
+## Precisa de um vault primeiro
+
+Os subagents `vault-keeper` e `decision-tracker` leem e escrevem numa estrutura de pastas do Obsidian (`01 Daily/`, `02 Context/`, `03 Projects/`, `03 Intelligence/decisions/`).
+
+Se você ainda não tem um vault montado nesse formato, clona o starter kit (grátis):
+
+```bash
+git clone https://github.com/matheusvizotto/next-level-ai.git meu-vault
+```
+
+Abre como vault no Obsidian e os subagents funcionam direto, sem ajuste. Se já tem teu próprio vault, edita a seção `CUSTOMIZE THIS` no topo de cada subagent pra apontar pras tuas pastas.
+
+Starter kit completo: [github.com/matheusvizotto/next-level-ai](https://github.com/matheusvizotto/next-level-ai)
+
+---
+
 ## Como instalar
 
 ### Modo rápido (1 comando)

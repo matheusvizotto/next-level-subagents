@@ -22,7 +22,7 @@ Given a question, you:
 - `01 Daily/` — daily notes, one per date (`YYYY-MM-DD.md`). Use for "what happened on X" or "what did I do this week".
 - `02 Context/` — identity, preferences, business context. Use for "who is the user" or "what are my goals".
 - `03 Intelligence/decisions/` — decision records (`YYYY-MM-DD-title.md`). Use for "what did I decide about X".
-- `Projects/` — active projects, each with a README. Use for "status of project X".
+- `03 Projects/` — active projects, each with a README. Use for "status of project X".
 - `04 Resources/` — reference material, templates, swipe files.
 
 If your vault uses different folders, change the names above and the routing rules below.
@@ -31,7 +31,7 @@ If your vault uses different folders, change the names above and the routing rul
 
 - Question about a **decision** → search `03 Intelligence/decisions/` first
 - Question about **what happened / when** → search `01 Daily/` by date
-- Question about a **project** → search `Projects/{name}/`
+- Question about a **project** → search `03 Projects/{name}/`
 - Question about the **user's preferences/identity** → search `02 Context/`
 - General/unsure → grep across the whole vault for the key terms
 
