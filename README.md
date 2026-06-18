@@ -130,7 +130,7 @@ Os 4 subagents desse repo são a fundação. Na imersão eu mostro o que NÃO t�
 - **Customização pro teu trabalho específico**
 - **Acesso vitalício à comunidade** — onde isso continua crescendo
 
-**Sábado 27/06/2026, 9h BRT, online. R$ 297 (lote atual), gravação +R$ 100. Vagas limitadas.**
+Data, preço e vagas atualizados na página da imersão.
 
 → [Inscrever na imersão](https://matheusvizotto.com/pt-br/imersao-segundo-cerebro)
 
