@@ -108,7 +108,7 @@ next-level-subagents/
 
 ## Quem fez
 
-Matheus Vizotto. Growth marketing manager (VenueNow), founder (Mindex Studio), criador do AI OS Builder.
+Matheus Vizotto. Growth marketing e IA. Fundador da Mindex Studio, criador do AI OS Builder.
 
 PT-BR primeiro. Tudo aberto. Use, modifique, contribua.
 
@@ -130,9 +130,9 @@ Os 4 subagents desse repo são a fundação. Na imersão eu mostro o que NÃO t�
 - **Customização pro teu trabalho específico**
 - **Acesso vitalício à comunidade** — onde isso continua crescendo
 
-**Sábado 06/06/2026, 9h BRT, online, 4-8h, R$ 297, 200 vagas.**
+**Sábado 27/06/2026, 9h BRT, online. R$ 297 (lote atual), gravação +R$ 100. Vagas limitadas.**
 
-→ [Inscrever na imersão](https://matheusvizotto.com/imersao)
+→ [Inscrever na imersão](https://matheusvizotto.com/pt-br/imersao-segundo-cerebro)
 
 ---
 

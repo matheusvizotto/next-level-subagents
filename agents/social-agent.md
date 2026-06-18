@@ -58,7 +58,7 @@ This subagent is the BRAIN. To make it respond automatically, connect it to a bo
 - Discord: use a Discord bot that forwards messages
 - iMessage: macOS automation that reads/sends Messages
 
-The bot handles transport. social-agent handles the thinking. See the README for the jarvis-bot reference implementation.
+The bot handles transport. social-agent handles the thinking. Any bot framework works: pipe the incoming message to Claude Code running this subagent, then send back the draft it returns.
 
 ## Output format
 

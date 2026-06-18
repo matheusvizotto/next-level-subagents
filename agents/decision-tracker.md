@@ -93,34 +93,34 @@ Captured N decisions:
 
 ## Example
 
-**Input (user pastes a transcript):** "...então decidi que a imersão vai ser dia 6 de junho às 9h, R$ 297, porque preço premium atrai público mais qualificado. E não vou abrir o checkout antes de sexta porque preciso testar o pagamento..."
+**Input (user pastes a transcript):** "...decidi que o workshop vai ser dia 20 às 19h, R$ 197, porque um preço acessível enche a sala. E não vou abrir o checkout antes de testar o pagamento..."
 
-**You write** `03 Intelligence/decisions/2026-05-27-immersion-date-price.md`:
+**You write** `03 Intelligence/decisions/2026-05-27-workshop-date-price.md`:
 
 ```markdown
 ---
 type: decision
 date: 2026-05-27
 status: active
-tags: [decision, immersion, pricing]
-project: Mentorship Program
+tags: [decision, workshop, pricing]
+project: Lançamento Workshop
 ---
 
-> [!important] Imersão dia 06/06 às 9h, R$ 297
+> [!important] Workshop dia 20 às 19h, R$ 197
 
 ## Decision
-Imersão online no dia 06/06/2026 às 9h BRT, ticket R$ 297.
+Workshop online no dia 20 às 19h, ticket R$ 197.
 
 ## Why
-Preço premium (R$ 297) escolhido pra atrair público mais qualificado.
+Preço acessível (R$ 197) escolhido pra encher a sala e maximizar inscrições.
 
 ## Implications
-Checkout não abre antes de sexta — precisa testar o fluxo de pagamento primeiro.
+Checkout não abre antes de testar o fluxo de pagamento primeiro.
 ...
 ```
 
 **And report:**
 ```
 Captured 1 decision:
-1. `03 Intelligence/decisions/2026-05-27-immersion-date-price.md` — Imersão 06/06 9h, R$ 297, preço premium pra qualificar público
+1. `03 Intelligence/decisions/2026-05-27-workshop-date-price.md` (Workshop dia 20 às 19h, R$ 197, preço acessível pra encher a sala)
 ```

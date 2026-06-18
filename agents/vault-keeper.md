@@ -79,14 +79,14 @@ Suggestion: [where to look or what note to create].
 3. Answer:
 
 ```
-Your 3 biggest decisions in May 2026:
+Your 3 biggest decisions this month:
 
-1. Repositioned the JARVIS series from "$1/dia" to "time de subagents em paralelo" (2026-05-26)
-2. Made the launch funnel end in a paid immersion, not a free live (2026-05-26)
-3. Split subagents into public (free) and private (paid) repos (2026-05-27)
+1. Moved the product launch from a free webinar to a paid workshop (2026-05-12)
+2. Picked Pinterest over TikTok as the second channel for Q3 (2026-05-18)
+3. Paused the lowest-ROAS ad set to fund a creative test (2026-05-22)
 
 Sources:
-- `03 Intelligence/decisions/2026-05-26-jarvis-positioning-team-not-agent.md`
-- `03 Intelligence/decisions/2026-05-26-immersion-paid-funnel.md`
-- `03 Intelligence/decisions/2026-05-27-...`
+- `03 Intelligence/decisions/2026-05-12-paid-workshop.md`
+- `03 Intelligence/decisions/2026-05-18-second-channel-pinterest.md`
+- `03 Intelligence/decisions/2026-05-22-pause-low-roas-adset.md`
 ```
